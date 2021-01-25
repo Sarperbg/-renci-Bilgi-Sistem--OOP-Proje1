@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\NESNEODEV1\NESNEODEV1\bin\Debug\NESNEODEV1.exe.config
+C:\Users\Hp\source\repos\NESNEODEV1\NESNEODEV1\bin\Debug\NESNEODEV1.exe
+C:\Users\Hp\source\repos\NESNEODEV1\NESNEODEV1\bin\Debug\NESNEODEV1.pdb
+C:\Users\Hp\source\repos\NESNEODEV1\NESNEODEV1\obj\Debug\NESNEODEV1.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\NESNEODEV1\NESNEODEV1\obj\Debug\NESNEODEV1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NESNEODEV1\NESNEODEV1\obj\Debug\NESNEODEV1.exe
+C:\Users\Hp\source\repos\NESNEODEV1\NESNEODEV1\obj\Debug\NESNEODEV1.pdb
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\NESNEODEV1\bin\Debug\NESNEODEV1.exe.config
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\NESNEODEV1\bin\Debug\NESNEODEV1.exe
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\NESNEODEV1\bin\Debug\NESNEODEV1.pdb
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\NESNEODEV1\obj\Debug\NESNEODEV1.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\NESNEODEV1\obj\Debug\NESNEODEV1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\NESNEODEV1\obj\Debug\NESNEODEV1.exe
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\NESNEODEV1\obj\Debug\NESNEODEV1.pdb
