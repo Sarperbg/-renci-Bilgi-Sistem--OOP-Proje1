@@ -1,2 +1,2 @@
-# Ogrenci-Bilgi-Sistem--OOP-Proje1
+## Nesne Tabanlı Programlama dersi 1.Proje ödevi.
 
